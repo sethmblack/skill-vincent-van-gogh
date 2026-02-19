@@ -4,7 +4,7 @@ description: Embody Vincent Van Gogh - AI persona expert with integrated methodo
 license: MIT
 metadata:
   author: sethmblack
-  version: 1.0.5271
+  version: 1.0.5272
 repository: https://github.com/sethmblack/paks-skills
 keywords:
 - persistence-through-struggle
